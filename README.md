@@ -2,7 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4frInXA5y3lGNLjeHS/giphy.gif" width="100"/>
 </div>
-![](https://komarev.com/ghpvc/?username=kilg-kory)
+
+ <img src="https://komarev.com/ghpvc/?username=kilg-kory" alt='' />
 
 
 <!--
