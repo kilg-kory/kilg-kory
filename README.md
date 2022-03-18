@@ -1,9 +1,11 @@
-### Hi there 👋
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4frInXA5y3lGNLjeHS/giphy.gif" width="100"/>
+  <h2>Hi</h2>
+  <img src="https://media.giphy.com/media/4frInXA5y3lGNLjeHS/giphy.gif" width="100"/><br/>
+  <img src="https://komarev.com/ghpvc/?username=kilg-kory" alt='' />
 </div>
 
- <img src="https://komarev.com/ghpvc/?username=kilg-kory" alt='' />
+ 
 
 
 <!--
